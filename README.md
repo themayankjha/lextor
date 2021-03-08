@@ -3,11 +3,13 @@
 #### Overview
 This application allows a remote web-based control interface for a Raspberry Pi robot.
 The web-based interface has a working backend in PHP while the Raspberry Pi run on Python.
+
 I created this in 2018 have recently found the source code so sharing it here.Some of the things I have done may not be the best from security standpoint but ultimately I achieved the functionality I wanted to achieve.
 
-This is also deployed on [Azure](https://lextor.azurewebsites.net/)
+This is also deployed here on [Azure](https://lextor.azurewebsites.net/)
 
-Also I have regenerated the ftp keys so dont go spooing around xD.
+Also I have regenerated the FTP keys so dont go poking around xD.
+
 ---
 #### Functionality
 - This application uses a web based interface with various control buttons which when clicked activate a script to change contents of text file hosted on the same server.
@@ -17,7 +19,7 @@ Also I have regenerated the ftp keys so dont go spooing around xD.
 
 ---
 #### Usage
- This acts as a basic wireframe to get started with controling a Raspberry Pi remotely.You can extend this code to allow Database and more secure implementations of various things. 
+ This acts as a basic wireframe to get started with controling a Raspberry Pi remotely.You can extend this code to allow databases and more secure implementations of various things. 
 
 ---
 
